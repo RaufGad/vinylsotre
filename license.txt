@@ -1,0 +1,11 @@
+Model Information:
+* title:	rock's vinyl
+* source:	https://sketchfab.com/3d-models/rocks-vinyl-0acd95af0a564f92a1341beeedc51efd
+* author:	Leam (https://sketchfab.com/leamlld)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "rock's vinyl" (https://sketchfab.com/3d-models/rocks-vinyl-0acd95af0a564f92a1341beeedc51efd) by Leam (https://sketchfab.com/leamlld) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
